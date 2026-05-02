@@ -1,0 +1,8 @@
+# Add your project-specific libraries here
+# Examples already included as a starting point:
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+requests
